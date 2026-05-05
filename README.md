@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently Learning C++ & also working on web development projects, focusing on building scalable and user-friendly applications.<br><br>👯 I’m looking to collaborate on open-source projects and innovative ideas related to software development.<br><br>🤝 I’m looking for help with improving system design, backend architecture, and real-world project experience.<br><br>🌱 I’m currently learning advanced programming concepts, data structures, and modern web technologies.<br><br>💬 Ask me about C programming, problem solving, and basic full-stack development.<br><br>⚡ Fun fact: I enjoy turning ideas into real projects, even if it means breaking things a few times first.
+🔭 Currently learning C++ while building scalable, user-friendly web applications
+👯 Open to collaborating on open-source projects and innovative software ideas
+🤝 Interested in improving system design, backend architecture, and real-world development skills
+🌱 Actively studying advanced programming concepts, data structures, and modern web technologies
+💬 Ask me about C programming, problem solving, and basic full-stack development
+⚡ Fun fact: I like turning ideas into real projects even if it involves breaking things along the way
 
 
 ## 🌐 Socials:
