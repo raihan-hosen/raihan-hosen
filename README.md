@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently learning C++ while building scalable, user-friendly web applications  
+🔭 Currently learning Data Structure while building scalable, user-friendly web applications  
 
 👯 Open to collaborating on open-source projects and innovative software ideas  
 
@@ -7,7 +7,7 @@
 
 🌱 Actively studying advanced programming concepts, data structures, and modern web technologies  
 
-💬 Ask me about C programming, problem solving, and basic full-stack development  
+💬 Ask me about C++ programming, problem solving, and basic full-stack development  
 
 ⚡ Fun fact: I like turning ideas into real projects even if it involves breaking things along the way  
 
