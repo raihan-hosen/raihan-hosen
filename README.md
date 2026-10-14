@@ -138,3 +138,10 @@ I'm a Full-Stack Developer focused on building modern, secure, and reliable web 
   </a>
 </p>
 <hr>
+
+### GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raihan-hosen&show_icons=true&hide_border=true&theme=transparent&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-hosen&layout=compact&hide_border=true&theme=transparent&title_color=1f6feb&text_color=8b949e&langs_count=6" alt="Most used languages" />
+</p>
