@@ -1,8 +1,14 @@
-<h1 align="center">Hi, I'm Raihan Hosen<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate developer and a student from Bangladesh.</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Raihan%20Hosen&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=18&descAlignY=62" alt="Raihan Hosen - MERN Stack Full-Stack Developer" width="100%" />
+</div>
+
+### About Me
+
+I'm a Full-Stack Developer focused on building modern, secure, and reliable web applications. I enjoy working across the stack while paying close attention to backend architecture, API security, data protection, and overall application performance.
 <ul>
 <li>
-<p> I’m currently learning <strong>To be Extroverted</strong> <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"></p>
+<p> I’m currently learning <strong>To be Extroverted</strong> </p>
 </li>
 <li>
 <p> I’m looking to collaborate on <strong>Next.JS Framework</strong></p>
