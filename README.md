@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Raihan%20Hosen&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=18&descAlignY=62" alt="Raihan Hosen - MERN Stack Full-Stack Developer" width="100%" />
 </div>
 
-<div align="Center" ### About Me </div>
+<div align="Center"> ### About Me </div>
 
 I'm a Full-Stack Developer focused on building modern, secure, and reliable web applications. I enjoy working across the stack while paying close attention to backend architecture, API security, data protection, and overall application performance.
 <ul>
