@@ -1,147 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Raihan%20Hosen&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=18&descAlignY=62" alt="Raihan Hosen - MERN Stack Full-Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=timeGradient&section=header&reversal=false&text=MD+Raihan+Hosen&textBg=false&fontSize=60&fontAlign=50&fontAlignY=35&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4B6&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Backend+Architecture+%26+API+Security;MERN+%7C+Next.js+%7C+PostgreSQL;Competitive+Programmer" alt="Typing SVG" />
+</a>
+
 </div>
 
-<div align="Center"> <h2>About Me</h2></div>
+<h2 align="center">About Me</h2>
 
-I'm a Full-Stack Developer focused on building modern, secure, and reliable web applications. I enjoy working across the stack while paying close attention to backend architecture, API security, data protection, and overall application performance.
-<ul>
-<li>
-<p> I’m currently learning <strong>To be Extroverted</strong> </p>
-</li>
-<li>
-<p> I’m looking to collaborate on <strong>Next.JS Framework</strong></p>
-</li>
-<li>
-<p> I’m looking for help with <strong>Backend Design</strong></p>
-</li>
-<li>
-<p> All of my projects are available <a href="https://github.com/raihan-hosen">MD Raihan Hosen</a></p>
-</li>
-<li>
-<p> Ask me about <strong>Philosophy </strong></p>
-</li>
-<li>
-<p>Fun fact <strong>Coding is a passion and not profession.</strong></p>
-</li>
-</ul>
-<hr>
-<h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="c">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="javascript"> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="html5"> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css3">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="typescript">
-  </a>
+  I'm a Full-Stack Developer focused on building modern, secure, and reliable web applications.<br/>
+  I enjoy working across the stack while paying close attention to backend architecture, API security, data protection, and application performance.
 </p>
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="react"> 
-  </a>
-</p>
-<h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="nodejs"> 
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="express">
-  </a>
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="nginx"> 
-  </a> 
-</p>
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="postgresql"> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="sqlite"> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="mongodb"> 
-  </a> 
-</p>
-<h3 align="center">Cloud &amp; Hosting:</h3>
-<p align="center">
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt="firebase">
-  </a>
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=black" alt="firebase">
-  </a>
-</p>
-<h3 align="center">Testing</h3>
-<p align="center"> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" alt="selenium"> 
-  </a> 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&amp;logo=junit5&amp;logoColor=white" alt="junit5"> 
-  </a> 
-</p>
-<h3 align="center">Version Control &amp; CI/CD</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github">
-  </a>
-</p>
-<h3 align="center">Preferred IDEs  &amp; Tools :</h3>
-<p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="vsCode"> 
-  </a>
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="postman">
-  </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="ubuntu">
-  </a>
-</p>
-<hr>
-<h3 align="center">Connect with me</h3>
-<div style="margin-top:10px" align="center">
-  <div>
-    <a href="https://www.linkedin.com/in/md-raihan-hosen/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="example">
-    </a>
-  </div>
-  <div>
-    <a href="https://www.codechef.com/users/raihan_hosen" target="_blank">
-      <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="example">
-    </a>
-    <a href="https://www.hackerrank.com/profile/raihanhosen1381" target="_blank">
-      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black" alt="example">
-    </a>
-  </div>
+
+<br/>
+
+- 🌱 Currently learning: **To be Extroverted**
+- 🤝 Looking to collaborate on: **Next.js Framework**
+- 🧠 Looking for help with: **Backend System Design**
+- 💻 Check out my projects: **[MD Raihan Hosen on GitHub](https://github.com/raihan-hosen)**
+- 💬 Ask me about: **Philosophy**
+- ⚡ Fun fact: **Coding is a passion, not just a profession.**
+
+---
+
+<h2 align="center">Tech Stack & Tools</h2>
+
+<div align="center">
+
+#### Languages
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://www.cprogramming.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+
+#### Frontend & Backend
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com)
+
+#### Databases & Cloud
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black)](https://netlify.com/)
+
+#### Testing, DevOps & Tools
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)
+[![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihan-hosen)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
 </div>
-<h3 align="center">Reach me</h3>
+
+---
+
+<h2 align="center">Connect With Me</h2>
+
 <p align="center">
-  <a href="mailto:raihanhosen1381@gmail.com?subject=Feedback%20From%20Github&amp;body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-0078D4.svg?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" alt="example">
+  <a href="https://www.linkedin.com/in/md-raihan-hosen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-<hr>
-
-### GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raihan-hosen&show_icons=true&hide_border=true&theme=transparent&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-hosen&layout=compact&hide_border=true&theme=transparent&title_color=1f6feb&text_color=8b949e&langs_count=6" alt="Most used languages" />
+  <a href="mailto:raihanhosen1381@gmail.com?subject=Feedback%20From%20GitHub&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.codechef.com/users/raihan_hosen" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/raihanhosen1381" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  </a>
 </p>
