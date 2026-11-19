@@ -17,12 +17,13 @@
 
 <br/>
 
-- 🌱 Currently learning: **To be Extroverted**
-- 🤝 Looking to collaborate on: **Next.js Framework**
-- 🧠 Looking for help with: **Backend System Design**
-- 💻 Check out my projects: **[MD Raihan Hosen on GitHub](https://github.com/raihan-hosen)**
-- 💬 Ask me about: **Philosophy**
-- ⚡ Fun fact: **Coding is a passion, not just a profession.**
+-  Currently learning: **To be Extroverted**
+-  Looking to collaborate on: **Next.js Framework**
+-  Looking for help with: **Backend System Design**
+-  Check out my projects: **[MD Raihan Hosen on GitHub](https://github.com/raihan-hosen)**
+-  Check out my portfolio: **[Portfolio-MD Raihan Hosen](https://www.raihan-hosen.tech/)**
+-  Ask me about: **Philosophy**
+-  Fun fact: **Coding is a passion, not just a profession.**
 
 ---
 
